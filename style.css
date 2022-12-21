@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note{
+    font-size: 15px;
+    color: rgb(216, 236, 35);
+}
+body
+{
+    background-size: cover;
+}
+#song
+{
+    font-size: 23px;
+    margin: 15px;
+}
+canvas{
+    border: 5px solid wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #E62B67 ;
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
